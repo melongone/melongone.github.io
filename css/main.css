@@ -5,13 +5,14 @@ body {
 nav ul, footer ul {
     font-family: 'Helvetica' , 'Sans-Serif', 'Avenir';
     padding: 0px;
+    margin-left: 700px;
     list-style: none;
     font-weight: bold;
     color: #396a93;
 }
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 20px;
+    margin-right: 50px;
 }
 a {
     text-decoration: none;
