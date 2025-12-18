@@ -165,11 +165,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.get_paper_pdf" />
-      <item itemvalue="Python.browser_test (1)" />
-      <item itemvalue="Python.get_NSF_XML" />
       <item itemvalue="Python.bohong_data_match" />
+      <item itemvalue="Python.browser_test (1)" />
       <item itemvalue="Python.digg_csv_split" />
+      <item itemvalue="Python.get_NSF_XML" />
+      <item itemvalue="Python.get_paper_pdf" />
     </list>
     <recent_temporary>
       <list>
